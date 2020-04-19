@@ -37,3 +37,8 @@ Testing/
 *.f95
 fortran/
 *.py[cod]
+
+# me add
+env/
+tmp/
+big/
